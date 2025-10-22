@@ -49,40 +49,6 @@
 
 ---
 
-## 🚀 Latest Project
-
-### [Achiever - Video Game Achievement Tracker](https://github.com/avantgardian/Achiever)
-
-<div align="center">
-
-**Full-Stack Application with Comprehensive Test Automation Framework**
-
-</div>
-
-#### 🧪 Testing & QA Highlights:
-- ✅ **E2E test suites** using Playwright with cross-browser coverage (Chromium, Firefox, WebKit)
-- ✅ **Unit tests** with Vitest following TDD methodology
-- ✅ **CI/CD pipeline** with GitHub Actions
-- ✅ **Test data management** with environment-specific seeding strategies
-- ✅ **Quality gates** ensuring zero defects reach production
-
-#### 🔧 Technical Stack:
-- **Frontend:** Vanilla JavaScript (ES6+), Bootstrap 5, responsive design
-- **Backend:** Express.js RESTful API, Prisma ORM, PostgreSQL
-- **Testing:** Playwright (E2E), Vitest (Unit), ESLint (Code Quality)
-- **CI/CD:** GitHub Actions with automated testing pipeline
-- **Deployment:** GitHub Pages (frontend), Railway (backend)
-
-#### 📊 Key Achievements:
-- 🎯 100% test pass rate across all environments
-- ⚡ Optimized CI/CD pipeline execution time
-- 🔄 Automated regression testing on every code change
-- 📈 Automated test cases covering critical user flows
-
-[**🔗 View Live Demo**](https://avantgardian.github.io/Achiever/) | [**📂 View Repository**](https://github.com/avantgardian/Achiever)
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
