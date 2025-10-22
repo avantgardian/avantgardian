@@ -132,6 +132,32 @@ I believe in:
 </table>
 
 ---
+---
+
+## 💬 Recommendations
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+
+<table>
+<tr>
+<td width="70px" valign="top">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHHDCxN-SlLPg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705016964586?e=1762992000&v=beta&t=2GeFHcJT6UQBq-V3haaXFAyoiml2tR8W51g1YhKGJJc" width="70" style="border-radius: 50%;"/>
+</td>
+<td valign="top" style="padding-left: 15px;">
+  <h3 style="margin: 0;">Ramona Bonitatis</h3>
+  <p style="margin: 5px 0; color: #666;">Director of QA, Product & Technology at <strong>Fox News Media</strong></p>
+  <p style="margin: 5px 0; color: #999; font-size: 14px;">📅 June 30, 2020 • 7+ years working together</p>
+</td>
+</tr>
+</table>
+
+<p style="margin-top: 15px; font-style: italic; line-height: 1.6;">
+"Andrew has a special gift when it comes to critical thinking, QA strategy, page/video analytics validations, and drafting exceptional documentation/test cases. Thank you for challenging me through some tough projects and driving quality in our analytics implementations across our business units. Great leaders always make a difference. You made a difference at FOX, any company would be so lucky to have you on their team!"
+</p>
+
+</div>
+
+---
 
 
 ## 📫 Let's Connect!
