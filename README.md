@@ -78,24 +78,26 @@ I believe in:
 
 ---
 
-## 💬 Recommendation
+## 💬 Recommendations
 
-<div align="center">
-
-### "Andrew has a special gift when it comes to critical thinking, QA strategy, and analytics validations"
-
-**Ramona Bonitatis**  
-_Director of QA, Product & Technology at Fox News Media_
-
-**Key Highlights:**
-- 🎯 QA Strategy & Critical Thinking
-- 📊 Analytics Implementation Quality
-- 📝 Exceptional Documentation & Test Cases
-- 👥 7+ Years Collaboration
-
-_"Great leaders always make a difference. You made a difference at FOX, any company would be so lucky to have you on their team!"_
-
-</div>
+<table>
+<tr>
+<td width="80px" align="center" valign="top">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHHDCxN-SlLPg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705016964586?e=1762992000&v=beta&t=2GeFHcJT6UQBq-V3haaXFAyoiml2tR8W51g1YhKGJJc" width="80" style="border-radius: 50%; border: 2px solid #0077B5;"/>
+</td>
+<td valign="top">
+  <div>
+    <strong style="font-size: 16px;">Ramona Bonitatis</strong><br/>
+    <em style="color: #666;">Director of QA, Product & Technology at Fox News Media</em><br/>
+    <span style="color: #999; font-size: 13px;">📅 June 30, 2020 · 7+ years working together</span>
+  </div>
+  <br/>
+  <blockquote>
+    "Andrew has a special gift when it comes to critical thinking, QA strategy, page/video analytics validations, and drafting exceptional documentation/test cases. Thank you for challenging me through some tough projects and driving quality in our analytics implementations across our business units. Great leaders always make a difference. You made a difference at FOX, any company would be so lucky to have you on their team!"
+  </blockquote>
+</td>
+</tr>
+</table>
 
 ---
 
