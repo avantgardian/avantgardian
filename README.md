@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Andrei Stratu
 
-### QA Engineer | Test Automation Specialist | SDET
+### QA Engineer / Analyst | Test Automation | SDET
 
 *Building robust test frameworks and ensuring quality through automation*
 
@@ -16,10 +16,10 @@
 
 ## 🎯 About Me
 
-- 🔍 Specialized in **Test Automation** and **Quality Engineering**
+- 🔍 Specialized in excellent **Manual Testing**, **Test Automation** and **Quality Engineering**
 - 🧪 Experienced with **Playwright**, **Vitest**, and **CI/CD pipelines**
 - 🌱 Currently learning advanced testing patterns and SDET best practices
-- 💼 Building quality into every line of code
+- 💼 Curious and self-motivated type with a special interest in backwards engineering complex systems
 
 ---
 
