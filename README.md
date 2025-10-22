@@ -53,8 +53,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avantgardian&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantgardian&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avantgardian&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avantgardian&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195"/>
 </div>
 
 ---
