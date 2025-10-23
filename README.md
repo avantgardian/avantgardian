@@ -59,25 +59,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avantgardian&theme=tokyo-night&hide_border=true)
-
----
-
-## 💡 Testing Philosophy
-
-> *"Quality is not an act, it is a habit."* - Aristotle
-
-I believe in:
-- 🎯 **Shift-left testing** - catching bugs early in development
-- 🔄 **Continuous integration** - automated testing on every commit
-- 📝 **Test-driven development** - writing tests before code
-- 🌐 **Cross-browser compatibility** - ensuring consistent UX everywhere
-- 📊 **Data-driven testing** - scalable, maintainable test suites
-
----
-
 ## 💬 Recommendations
 
 <table>
