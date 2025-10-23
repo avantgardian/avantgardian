@@ -116,8 +116,6 @@ I'm always interested in discussing QA best practices, test automation, and care
 
 <div align="center">
 
-*⭐ From [avantgardian](https://github.com/avantgardian) - Always testing, always learning*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=avantgardian&color=blueviolet&style=for-the-badge)
 
 </div>
