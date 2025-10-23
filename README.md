@@ -93,7 +93,7 @@ I believe in:
   </div>
   <br/>
   <blockquote>
-    "Andrew has a special gift when it comes to critical thinking, QA strategy, page/video analytics validations, and drafting exceptional documentation/test cases. Thank you for challenging me through some tough projects and driving quality in our analytics implementations across our business units. Great leaders always make a difference. You made a difference at FOX, any company would be so lucky to have you on their team!"
+    "Andrei has a special gift when it comes to critical thinking, QA strategy, page/video analytics validations, and drafting exceptional documentation/test cases. Thank you for challenging me through some tough projects and driving quality in our analytics implementations across our business units. Great leaders always make a difference. You made a difference at FOX, any company would be so lucky to have you on their team!"
   </blockquote>
 </td>
 </tr>
