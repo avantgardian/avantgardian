@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Andrei Stratu
 
-### QA Engineer / Analyst | Test Automation | SDET
+### QA Engineer / Analyst | Test Automation
 
 *Building robust test frameworks and ensuring quality through automation*
 
